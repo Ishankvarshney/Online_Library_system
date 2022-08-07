@@ -74,8 +74,8 @@
 			<div class="box">
 				<br><br><br><br>
 				<h1 style="text-align: center; font-size: 35px;">Welcome to library</h1><br><br>
-				<h1 style="text-align: center;font-size: 25px;">Opens at: 09:00 </h1><br>
-				<h1 style="text-align: center;font-size: 25px;">Closes at: 20:00 </h1><br>
+				<h1 style="text-align: center; font-family:Courier New,Lucida Console;font-size: 25px;">Libraries were full of ideas – perhaps the most dangerous and powerful of all weapons.</h1><br>
+				<h1 style="text-align: center; font-family: Lucida Console, Courier New, monospace; font-weight: bold;font-size: 25px;">-Sarah J. Maas</h1><br>
 			</div>
 		</div>
 		</section>
