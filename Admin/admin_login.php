@@ -33,8 +33,8 @@
       <form  name="login" action="" method="post">
         
         <div class="login">
-          <input class="form-control" type="text" name="username" placeholder="Username" required=""> <br><br>
-          <input class="form-control" type="password" name="password" placeholder="Password" required=""> <br><br>
+          <input class="form-control" type="text" name="username" placeholder="Username" required=""> <br>
+          <input class="form-control" type="password" name="password" placeholder="Password" required=""> <br>
           <input class="btn btn-default" type="submit" name="submit" value="Login" style="color: black; width: 70px; height: 30px"> 
         </div>
       
